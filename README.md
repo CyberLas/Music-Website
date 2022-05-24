@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Music App
 
 This project was bootstrapped with [Create React App](http://localhost:3000).
 
